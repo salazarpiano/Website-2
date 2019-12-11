@@ -95,7 +95,7 @@ body {
 }
 
 .newpic {
-    background-image: url(assets/IMG_2090.JPG);
+    background-image: url(/assets/IMG_2090.JPG);
     height: 50vw;
     width: 50vw;
     background-position: top;
