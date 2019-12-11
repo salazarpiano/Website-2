@@ -95,7 +95,7 @@ body {
 }
 
 .newpic {
-    background-image: url(assets/IMG_2090.JPG);
+    background-image: url(assets/IMG_2090.jpg);
     height: 50vw;
     width: 50vw;
     background-position: top;
@@ -117,7 +117,7 @@ body {
 /* resume */ 
 
 .resumepic {
-    background-image: url(assets/IMG_2125.JPG);
+    background-image: url(assets/IMG_2125.jpg);
     height: 100vw;
     width: 50vw;
     background-position: top;
